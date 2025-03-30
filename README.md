@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Studying Computer Science at **Silesian University of Technology**, specializing in **Data Engineering**.
-- 🛠️ Experienced in **Python**, **Delphi**, **JavaScript**, and **PL/SQL**.
-- 🏗️ Currently working as a **Programmer** at **Forterro Poland**, developing innovative ERP solutions tailored to client needs.
-- ⚽ Amatur goalkeeperin a local football league!
+- 🎓 Studying Computer Science at Silesian University of Technology, specializing in Data Engineering.
+- 🛠️ Experienced in Python, Delphi, JavaScript, and PL/SQL.
+- 🏗️ Currently working as a Programmer at Forterro Poland, developing innovative ERP solutions tailored to client needs.
+- ⚽ Amateur goalkeeper in a local football league!
 
 ---
 
